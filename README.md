@@ -11,10 +11,6 @@ C:\HashiCorp\BOX>dir
                1 File(s)             69 bytes
                3 Dir(s)   7,363,497,984 bytes free
 
-C:\HashiCorp\BOX>vagrant ssh
-VM must be running to open SSH connection. Run `vagrant up`
-to start the virtual machine.
-
 C:\HashiCorp\BOX>vagrant up
 Bringing machine 'default' up with 'virtualbox' provider...
 ==> default: Checking if box 'centos/7' is up to date...
