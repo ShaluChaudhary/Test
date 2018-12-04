@@ -1,7 +1,7 @@
 Docker:
 
-It is a containerization platform which packgages applicationan ans all its dependencies together in the form of container.
-docker client use RestAPI,SocketIO and TCP to interect with the Docker daemon.
+It is a containerization platform which packages applicationan and all its dependencies together in the form of container.
+docker client use RestAPI, SocketIO and TCP to interect with the Docker daemon.
 
 Docker Image:
 It is the read ony template used to create containers by using RUN command. It is stored in Docker HUB orin local registry.
@@ -11,7 +11,7 @@ Docker registry is a storage component for docker images.
 
 Steps to install Docker:
 
-Step1: Install Oracke virtual box.
+Step1: Install Oracle virtual box.
 
 Step 2: install Chocolatey packgae incase you are using 32 bit OS
 
