@@ -4,7 +4,7 @@ It is a containerization platform which packages applicationan and all its depen
 docker client use RestAPI, SocketIO and TCP to interect with the Docker daemon.
 
 Docker Image:
-It is the read ony template used to create containers by using RUN command. It is stored in Docker HUB orin local registry.
+It is the read ony template used to create containers by using RUN command. It is stored in Docker HUB or in local registry.
 
 Docker registry:
 Docker registry is a storage component for docker images.
